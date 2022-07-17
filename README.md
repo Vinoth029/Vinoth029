@@ -1,5 +1,5 @@
-> “The roots of education are bitter, but the fruit is sweet.”
->                                                 — Aristotle
+`“The roots of education are bitter, but the fruit is sweet.”`
+                                                              — Aristotle
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=%2303FC30&center=true&vCenter=true&width=450&lines=Hi+There+%F0%9F%91%8B%2C+This+is+Vinoth!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+(%E2%98%95%F0%9F%92%BB%F0%9F%92%A1%E2%9D%A4%EF%B8%8F))](https://vinoth.github.io/)
 
