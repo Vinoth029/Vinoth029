@@ -6,7 +6,7 @@
 ## 📒 About Me
 Passionate Engineer & thriving analyst with the ability to apply ML techniques & algorithm development to solve real world business problems. 
 
-## ⚡ Connect with me
+## 📶 Connect with me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinoth.kanagarathinam@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vinoth_K029)
