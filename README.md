@@ -13,8 +13,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-yellow?style=flat-square&logo=tensorflow)
@@ -22,7 +20,6 @@
 ![Opencv](https://img.shields.io/badge/-opencv-blue?style=flat-square&logo=opencv)
 ![Pandas](https://img.shields.io/badge/-pandas-yellow?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-numpy-blue?style=flat-square&logo=numpy)
-![Flask](https://img.shields.io/badge/flask-black?style=flat-square&logo=flask)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power%20bi)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-teal?style=flat-square&logo=arduino)
