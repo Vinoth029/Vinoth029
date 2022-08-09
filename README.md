@@ -13,8 +13,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-yellow?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
 ![Opencv](https://img.shields.io/badge/-opencv-blue?style=flat-square&logo=opencv)
@@ -23,6 +21,8 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power%20bi)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-teal?style=flat-square&logo=arduino)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
 ![Anaconda](https://img.shields.io/badge/conda-green?&style=flat-square&logo=anaconda)
