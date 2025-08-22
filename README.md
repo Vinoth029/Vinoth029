@@ -4,7 +4,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=%2303FC30&center=true&vCenter=true&width=450&lines=Hi+There+%F0%9F%91%8B%2C+This+is+Vinoth!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+(%E2%98%95%F0%9F%92%BB%F0%9F%92%A1%E2%9D%A4%EF%B8%8F))](https://vinoth.github.io/)
 
 ## 📒 About Me
-Passionate Engineer & thriving analyst with the ability to apply ML techniques & algorithm development to solve real world business problems. 
+Passionate engineer and results-driven analyst, experienced in distributed systems across modern cloud platforms. Proficient in SQL, Python, Airflow, Databricks and AWS services, with a demonstrated ability to convert complex business requirements into efficient, data-driven solutions
 
 ## 📶 Connect with me
 
@@ -16,9 +16,9 @@ Passionate Engineer & thriving analyst with the ability to apply ML techniques &
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-yellow?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
-![Opencv](https://img.shields.io/badge/-opencv-blue?style=flat-square&logo=opencv)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Databricks](https://img.shields.io/badge/-Databricks-E36209?style=flat-square&logo=databricks)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark)
 ![Pandas](https://img.shields.io/badge/-pandas-yellow?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-numpy-blue?style=flat-square&logo=numpy)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power%20bi)
