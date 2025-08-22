@@ -16,9 +16,9 @@ Passionate engineer and results-driven analyst, experienced in distributed syste
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Databricks](https://img.shields.io/badge/-Databricks-E36209?style=flat-square&logo=databricks)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E36209?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-pandas-yellow?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-numpy-blue?style=flat-square&logo=numpy)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power%20bi)
